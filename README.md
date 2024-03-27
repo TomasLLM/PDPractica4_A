@@ -1,4 +1,4 @@
-# PRACTICA 34: SISTEMES OPERATIUS EN TEMPS REAL
+# PRACTICA 4: SISTEMES OPERATIUS EN TEMPS REAL
 ### Autor: Tomàs Lloret
 
 L'objectiu d'aquesta pràctica és entendre el funcionament d'un sistema operatiu en temps real fent varies tasques i veient com s'executen dividint el temps d'ús de la CPU.
